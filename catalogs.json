@@ -1,0 +1,17 @@
+{ "catalogs" : [
+	 { "year": "2021 - 2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/" },
+	 { "year": "2020 - 2021", "url": "https://catalog.calpoly.edu/previouscatalogs/2020-2021/" },
+	 { "year": "2019 - 2020", "url": "https://catalog.calpoly.edu/previouscatalogs/2019-2020/" },
+	 { "year": "2017 - 2019", "url": "https://catalog.calpoly.edu/previouscatalogs/2017-2019/" },
+	 { "year": "2015 - 2017", "url": "https://catalog.calpoly.edu/previouscatalogs/2015-2017/" },
+	 { "year": "2013 - 2015", "url": "https://catalog.calpoly.edu/previouscatalogs/2013-15/" },
+	 { "year": "2011 - 2013", "url": "https://previouscatalogs.calpoly.edu/courses-a-z" },
+	 { "year": "2009 - 2011", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2009-2011%20Catalog.pdf" },
+	 { "year": "2007 - 2009", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2007-2009%20Catalog.pdf" },
+	 { "year": "2005 - 2007", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2005-2007%20Catalog.pdf" },
+	 { "year": "2003 - 2005", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2003-2005%20Catalog.pdf" },
+	 { "year": "2001 - 2003", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2001-2003%20Catalog.pdf" },
+	 { "year": "2000 - 2001", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2000-2001%20Catalog.pdf" },
+	 { "year": "1999 - 2000", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/1999-2000%20Catalog.pdf" }
+ ]
+}

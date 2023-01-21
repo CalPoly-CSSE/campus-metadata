@@ -1,0 +1,9 @@
+{ "colleges": [
+   { "abbreviation": "CENG", "name": "College of Engineering" },
+   { "abbreviation": "CAFES", "name": "College of Agriculture, Food and Environmental Sciences" },
+   { "abbreviation": "CAED", "name": "College of Architecture and Environmental Design" },
+   { "abbreviation": "CLA", "name": "College of Liberal Arts" },
+   { "abbreviation": "COSAM", "name": "College of Science and Mathematics" },
+   { "abbreviation": "OCOB", "name": "Orfalea College of Business" },
+   { "abbreviation": "EE", "name": "Extended Education" }
+]}
