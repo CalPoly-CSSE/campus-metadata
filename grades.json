@@ -1,0 +1,22 @@
+{ "grades": [
+   { "mark": "A", "points": 4.0, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "A-", "points": 3.7, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "B+", "points": 3.3, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "B", "points": 3.0, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "B-", "points": 2.7, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "C+", "points": 2.3, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "C", "points": 2.0, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "C-", "points": 1.7, "graded": true, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "D+", "points": 1.3, "graded": true, "ugrad_pass": true, "grad_pass": false },
+   { "mark": "D", "points": 1.0, "graded": true, "ugrad_pass": true, "grad_pass": false },
+   { "mark": "D-", "points": 0.7, "graded": true, "ugrad_pass": true, "grad_pass": false },
+   { "mark": "F", "points": 0.0, "graded": true, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "WU", "points": 0.0, "graded": true, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "CR", "points": 0.0, "graded": false, "ugrad_pass": true, "grad_pass": true },
+   { "mark": "NC", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "AU", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "I", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "RD", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "RP", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false },
+   { "mark": "W", "points": 0.0, "graded": false, "ugrad_pass": false, "grad_pass": false }
+]}
