@@ -1,9 +1,72 @@
 { "colleges": [
-   { "abbreviation": "CENG", "name": "College of Engineering" },
-   { "abbreviation": "CAFES", "name": "College of Agriculture, Food and Environmental Sciences" },
-   { "abbreviation": "CAED", "name": "College of Architecture and Environmental Design" },
-   { "abbreviation": "CLA", "name": "College of Liberal Arts" },
-   { "abbreviation": "COSAM", "name": "College of Science and Mathematics" },
+   { "abbreviation": "CENG", "name": "College of Engineering", "departments": [
+
+      { "abbreviation": "CSSE", "name": "Department of Computer Science and Software Engineering" },
+      { "abbreviation": "CPE", "name": "Computer Engineering Department" },
+      { "abbreviation": "AERO", "name": "Aerospace Engineering Department" },
+      { "abbreviation": "ENV", "name": "Civil and Environmental Engineering Department" },
+      { "abbreviation": "EE", "name": "Electrical Engineering Department" },
+      { "abbreviation": "BMED", "name": "Biomedical Engineering Department" },
+      { "abbreviation": "ME", "name": "Mechanical Engineering Department" },
+      { "abbreviation": "ENGR", "name": "General Engineering Department" },
+      { "abbreviation": "MATE", "name": "Materials Engineering Department" },
+      { "abbreviation": "IME", "name": "Industrial Manufacturing Engineering Department" }
+   ]},
+
+   { "abbreviation": "CAFES", "name": "College of Agriculture, Food and Environmental Sciences", "departments" : [
+      { "abbreviation": "AGB", "name": "Agribusiness Department" },
+      { "abbreviation": "AGC", "name": "Agricultural Education and Communication Department" },
+      { "abbreviation": "ASCI", "name": "Animal Science Department" },
+      { "abbreviation": "BRAE", "name": "Bioresource and Agricultural Engineering Department" },
+      { "abbreviation": "RPTA", "name": "Experience Industry Management Department" },
+      { "abbreviation": "FSN", "name": "Food Science and Nutrition Department" },
+      { "abbreviation": "MSL", "name": "Military Science Department" },
+      { "abbreviation": "PLSC", "name": "Plant Sciences Department" },
+      { "abbreviation": "ERSC", "name": "Natural Resources Management and Environmental Sciences Department" },
+      { "abbreviation": "WVIT", "name": "Wine and Viticulture Department" }
+   ] },
+
+   { "abbreviation": "CAED", "name": "College of Architecture and Environmental Design", "departments" : [
+      { "abbreviation": "ARCE", "name": "Architectural Engineering Department" },
+      { "abbreviation": "ARCH", "name": "Architecture Department" },
+      { "abbreviation": "CRP", "name": "City and Regional Planning Department" },
+      { "abbreviation": "CM", "name": "Construction Management Department" },
+      { "abbreviation": "LA", "name": "Landscape Architecture Department" }
+   ] },
+
+   { "abbreviation": "CLA", "name": "College of Liberal Arts", "departments" : [
+      { "abbreviation": "ART", "name": "Art and Design" },
+      { "abbreviation": "COMS", "name": "Communication Studies Department" },
+      { "abbreviation": "ENGL", "name": "English Department" },
+      { "abbreviation": "ES", "name": "Ethnic Studies Department" },
+      { "abbreviation": "GRC", "name": "Graphic Communication Department" },
+      { "abbreviation": "HIST", "name": "History Department" },
+      { "abbreviation": "ISLA", "name": "Interdisciplinary Studies in the Liberal Arts Department" },
+      { "abbreviation": "JOUR", "name": "Journalism Department" },
+      { "abbreviation": "MU", "name": "Music Department" },
+      { "abbreviation": "PHIL", "name": "Philosophy Department" },
+      { "abbreviation": "POLS", "name": "Political Science Department" },
+      { "abbreviation": "PSY", "name": "Psychology and Child Development Department" },
+      { "abbreviation": "SOC", "name": "Social Sciences Department" },
+      { "abbreviation": "DANC", "name": "Theatre and Dance Department" },
+      { "abbreviation": "WGQS", "name": "Women's, Gender and Queer Studies Department" },
+      { "abbreviation": "WLC", "name": "World Languages and Literatures Department" }
+   ] },
+
+   { "abbreviation": "COSAM", "name": "Bailey College of Science and Mathematics", "departments" : [
+      { "abbreviation": "BIO", "name": "Biological Sciences Department" },
+      { "abbreviation": "CHEM", "name": "Chemistry and Biochemistry Department" },
+      { "abbreviation": "HLTH", "name": "Kinesiology and Public Health Department" },
+      { "abbreviation": "LS", "name": "Liberal Studies Department" },
+      { "abbreviation": "MATH", "name": "Mathematics Department" },
+      { "abbreviation": "PHYS", "name": "Physics Department" },
+      { "abbreviation": "STAT", "name": "Statistics Department" },
+      { "abbreviation": "EDUC", "name": "School of Education" }
+   ] },
+
    { "abbreviation": "OCOB", "name": "Orfalea College of Business" },
-   { "abbreviation": "EE", "name": "Extended Education" }
+
+   { "abbreviation": "EE", "name": "Extended Education", "departments": [
+      { "abbreviation": "GS", "name": "Graduate Studies" }
+   ]}
 ]}
