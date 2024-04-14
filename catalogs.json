@@ -1,5 +1,42 @@
 { "catalogs" : [
-	 { "year": "2021 - 2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/", "start_term": 2218, "end_term": 2226 },
+	 { "year": "2021 - 2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/", "start_term": 2218, "end_term": 2226, "programs" : {
+       "52CSCMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "MS",
+          "major": "Computer Science",
+          "full_name": "Masters of Science in Computer Science"
+       },
+       "52CSCBMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BMS",
+          "major": "Computer Science",
+          "full_name": "Blended Masters of Science in Computer Science"
+       },
+       "52CSCBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BS",
+          "major": "Computer Science",
+          "full_name": "Bachelors of Science in Computer Science"
+       },
+       "52SEBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "SE",
+          "degree": "BS",
+          "major": "Software Engineering",
+          "full_name": "Bachelors of Science in Software Engineering"
+       },
+       "52CPEBSU" : {
+          "dept": "CPE",
+          "abbreviation": "CPE",
+          "degree": "BS",
+          "major": "Computer Engineering",
+          "full_name": "Bachelors of Science in Computer Engineering"
+       }
+    } },
+
 	 { "year": "2020 - 2021", "url": "https://catalog.calpoly.edu/previouscatalogs/2020-2021/", "start_term" : 2208, "end_term": 2216 },
 	 { "year": "2019 - 2020", "url": "https://catalog.calpoly.edu/previouscatalogs/2019-2020/", "start_term": 2198, "end_term": 2206 },
 	 { "year": "2017 - 2019", "url": "https://catalog.calpoly.edu/previouscatalogs/2017-2019/", "start_term": 2178, "end_term": 2196 },
