@@ -1,5 +1,5 @@
 { "catalogs" : [
-	 { "year": "2021 - 2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/", "start_term": 2218, "end_term": 2226, "programs" : {
+	 { "year": "2022-2026", "url": "https://catalog.calpoly.edu/", "start_term": 2228, "end_term": 2266, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -37,7 +37,7 @@
        }
     } },
 
-	 { "year": "2020 - 2021", "url": "https://catalog.calpoly.edu/previouscatalogs/2020-2021/", "start_term" : 2208, "end_term": 2216, "programs" : {
+	 { "year": "2021-2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/", "start_term": 2218, "end_term": 2226, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -75,7 +75,7 @@
        }
     } },
 
-	 { "year": "2019 - 2020", "url": "https://catalog.calpoly.edu/previouscatalogs/2019-2020/", "start_term": 2198, "end_term": 2206, "programs" : {
+	 { "year": "2020-2021", "url": "https://catalog.calpoly.edu/previouscatalogs/2020-2021/", "start_term" : 2208, "end_term": 2216, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -113,7 +113,7 @@
        }
     } },
 
-	 { "year": "2017 - 2019", "url": "https://catalog.calpoly.edu/previouscatalogs/2017-2019/", "start_term": 2178, "end_term": 2196, "programs" : {
+	 { "year": "2019-2020", "url": "https://catalog.calpoly.edu/previouscatalogs/2019-2020/", "start_term": 2198, "end_term": 2206, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -151,7 +151,7 @@
        }
     } },
 
-	 { "year": "2015 - 2017", "url": "https://catalog.calpoly.edu/previouscatalogs/2015-2017/", "start_term": 2158, "end_term": 2176, "programs" : {
+	 { "year": "2017-2019", "url": "https://catalog.calpoly.edu/previouscatalogs/2017-2019/", "start_term": 2178, "end_term": 2196, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -189,7 +189,7 @@
        }
     } },
 
-	 { "year": "2013 - 2015", "url": "https://catalog.calpoly.edu/previouscatalogs/2013-15/", "start_term": 2138, "end_term": 2156, "programs" : {
+	 { "year": "2015-2017", "url": "https://catalog.calpoly.edu/previouscatalogs/2015-2017/", "start_term": 2158, "end_term": 2176, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -227,7 +227,7 @@
        }
     } },
 
-	 { "year": "2011 - 2013", "url": "https://previouscatalogs.calpoly.edu/courses-a-z", "start_term": 2118, "end_term": 2136, "programs" : {
+	 { "year": "2013-2015", "url": "https://catalog.calpoly.edu/previouscatalogs/2013-15/", "start_term": 2138, "end_term": 2156, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -265,7 +265,7 @@
        }
     } },
 
-	 { "year": "2009 - 2011", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2009-2011%20Catalog.pdf", "start_term": 2098, "end_term": 2116, "programs" : {
+	 { "year": "2011-2013", "url": "https://previouscatalogs.calpoly.edu/courses-a-z", "start_term": 2118, "end_term": 2136, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -303,7 +303,7 @@
        }
     } },
 
-	 { "year": "2007 - 2009", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2007-2009%20Catalog.pdf", "start_term": 2078, "end_term": 2096, "programs" : {
+	 { "year": "2009-2011", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2009-2011%20Catalog.pdf", "start_term": 2098, "end_term": 2116, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -341,7 +341,7 @@
        }
     } },
 
-	 { "year": "2005 - 2007", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2005-2007%20Catalog.pdf", "start_term": 2058, "end_term": 2076, "programs" : {
+	 { "year": "2007-2009", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2007-2009%20Catalog.pdf", "start_term": 2078, "end_term": 2096, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -379,7 +379,7 @@
        }
     } },
 
-	 { "year": "2003 - 2005", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2003-2005%20Catalog.pdf", "start_term" : 2038, "end_term": 2056,  "programs" : {
+	 { "year": "2005-2007", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2005-2007%20Catalog.pdf", "start_term": 2058, "end_term": 2076, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -417,7 +417,7 @@
        }
     } },
 
-	 { "year": "2001 - 2003", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2001-2003%20Catalog.pdf", "start_term": 2018, "end_term": 2036, "programs" : {
+	 { "year": "2003-2005", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2003-2005%20Catalog.pdf", "start_term" : 2038, "end_term": 2056,  "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -455,7 +455,7 @@
        }
     } },
 
-	 { "year": "2000 - 2001", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2000-2001%20Catalog.pdf", "start_term": 2008, "end_term": 2016, "programs" : {
+	 { "year": "2001-2003", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2001-2003%20Catalog.pdf", "start_term": 2018, "end_term": 2036, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
@@ -493,7 +493,45 @@
        }
     } },
 
-	 { "year": "1999 - 2000", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/1999-2000%20Catalog.pdf", "start_term": 998, "end_term": 2006, "programs" : {
+	 { "year": "2000-2001", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2000-2001%20Catalog.pdf", "start_term": 2008, "end_term": 2016, "programs" : {
+       "52CSCMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "MS",
+          "major": "Computer Science",
+          "full_name": "Masters of Science in Computer Science"
+       },
+       "52CSCBMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BMS",
+          "major": "Computer Science",
+          "full_name": "Blended Masters of Science in Computer Science"
+       },
+       "52CSCBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BS",
+          "major": "Computer Science",
+          "full_name": "Bachelors of Science in Computer Science"
+       },
+       "52SEBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "SE",
+          "degree": "BS",
+          "major": "Software Engineering",
+          "full_name": "Bachelors of Science in Software Engineering"
+       },
+       "52CPEBSU" : {
+          "dept": "CPE",
+          "abbreviation": "CPE",
+          "degree": "BS",
+          "major": "Computer Engineering",
+          "full_name": "Bachelors of Science in Computer Engineering"
+       }
+    } },
+
+	 { "year": "1999-2000", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/1999-2000%20Catalog.pdf", "start_term": 998, "end_term": 2006, "programs" : {
        "52CSCMSG" : {
           "dept": "CSSE",
           "abbreviation": "CSC",
