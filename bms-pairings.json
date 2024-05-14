@@ -1,4 +1,4 @@
-[
+{ "bms_pairings": {
    "52AEROBMSG": [ "52AEROBSU" ],
    "52AEROMSG": [ "52AEROBSU" ],
    "52BMEDBMSG": [ "52BMEDBSU", "76CHEMBSU", "52CPEBSU", "52EEBSU", "52MATEBSU", "52MEBSU" ],
@@ -15,4 +15,4 @@
    "52IEMSG": [ "52IEBSU", "52MATEBSU", "52MEBSU" ],
    "52MEMSG": [ "52MEBSU", "52AEROBSU" ],
    "52MEBMSG": [ "52MEBSU", "52AEROBSU" ]
-]
+} }
