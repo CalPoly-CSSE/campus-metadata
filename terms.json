@@ -104,5 +104,10 @@
    { "code": "2246", "name": "Summer Quarter 2024", "first_day" : "06/24/2024", "last_day" : "09/09/2024" },
    { "code": "2248", "name": "Fall Quarter 2024", "first_day" : "09/10/2024", "last_day" : "12/17/2024" },
    { "code": "2252", "name": "Winter Quarter 2025", "first_day" : "12/20/2024", "last_day" : "03/24/2025" },
-   { "code": "2254", "name": "Spring Quarter 2025", "first_day" : "03/25/2025", "last_day" : "06/17/2025" }
+   { "code": "2254", "name": "Spring Quarter 2025", "first_day" : "03/25/2025", "last_day" : "06/17/2025" },
+   { "code": "2256", "name": "Summer Quarter 2025", "first_day" : "06/18/2025", "last_day" : "09/06/2025" },
+   { "code": "2258", "name": "Fall Quarter 2025", "first_day" : "09/07/2025", "last_day" : "12/14/2025" },
+   { "code": "2262", "name": "Winter Quarter 2026", "first_day" : "12/15/2025", "last_day" : "03/23/2026" },
+   { "code": "2264", "name": "Spring Quarter 2026", "first_day" : "03/24/2026", "last_day" : "06/14/2026" },
+   { "code": "2266", "name": "Summer Quarter 2026", "first_day" : "06/15/2026", "last_day" : "09/08/2026" }
 ]}
