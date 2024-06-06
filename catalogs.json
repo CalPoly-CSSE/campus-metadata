@@ -3483,6 +3483,237 @@
           "major": "Computer Engineering",
           "full_name": "Bachelors of Science in Computer Engineering"
        }
+    } },
+
+	 { "year": "1986-1988", "url": "", "start_term": 868, "end_term": 888, "programs" : {
+       "52GENEBSU" : {
+          "dept": "ENGR",
+          "abbreviation": "ENGR",
+          "degree": "BS",
+          "major": "General Engineering",
+          "full_name": "Bachelors of Science in General Engineering"
+       },
+
+       "76MATHBSU" : {
+          "dept": "MATH",
+          "abbreviation": "MATH",
+          "degree": "BS",
+          "major": "Mathematics",
+          "full_name": "Bachelors of Science in Mathematics"
+       },
+
+       "10ASMBSU" : {
+          "dept": "BRAE",
+          "abbreviation": "ASM",
+          "degree": "BS",
+          "major": "Agricultural Systems Management",
+          "full_name": "Bachelors of Science in Agricultural Systems Management"
+       },
+
+       "76STATMSG" : {
+          "dept": "STAT",
+          "abbreviation": "STAT",
+          "degree": "MS",
+          "major": "Statistics",
+          "full_name": "Masters of Science in Statistics"
+       },
+       "76STATBSU" : {
+          "dept": "STAT",
+          "abbreviation": "STAT",
+          "degree": "BS",
+          "major": "Statistics",
+          "full_name": "Bachelors of Science in Statistics"
+       },
+
+       "52IEMSG" : {
+          "dept": "IME",
+          "abbreviation": "IME",
+          "degree": "MS",
+          "major": "Industrial Engineering",
+          "full_name": "Masters of Science in Industrial Engineering"
+       },
+       "52IEBMSG" : {
+          "dept": "IME",
+          "abbreviation": "IME",
+          "degree": "BMS",
+          "major": "Industrial Engineering",
+          "full_name": "Blended Masters of Science in Industrial Engineering"
+       },
+       "52EMGTMSG" : {
+          "dept": "IME",
+          "abbreviation": "EMGT",
+          "degree": "MS",
+          "major": "Engineering Management",
+          "full_name": "Masters of Science in Engineering Management"
+       },
+       "52EMGTBMSG" : {
+          "dept": "IME",
+          "abbreviation": "EMGT",
+          "degree": "BMS",
+          "major": "Engineering Management",
+          "full_name": "Blended Masters of Science in Engineering Management"
+       },
+       "52IEBSU" : {
+          "dept": "IME",
+          "abbreviation": "IE",
+          "degree": "BS",
+          "major": "Industrial Engineering",
+          "full_name": "Bachelors of Science in Industrial Engineering"
+       },
+       "52MFGEBSU" : {
+          "dept": "IME",
+          "abbreviation": "MFGE",
+          "degree": "BS",
+          "major": "Manufacturing Engineering",
+          "full_name": "Bachelors of Science in Manufacturing Engineering"
+       },
+       "52EEMSG" : {
+          "dept": "EE",
+          "abbreviation": "EE",
+          "degree": "MS",
+          "major": "Electrical Engineering",
+          "full_name": "Masters of Science in Electrical Engineering"
+       },
+       "52EEBMSG" : {
+          "dept": "EE",
+          "abbreviation": "EE",
+          "degree": "BMS",
+          "major": "Electrical Engineering",
+          "full_name": "Blended Masters of Science in Electrical Engineering"
+       },
+       "52CEENMSG" : {
+          "dept": "ENV",
+          "abbreviation": "CEEN",
+          "degree": "MS",
+          "major": "Civil and Environmental Engineering",
+          "full_name": "Masters of Science in Civil and Environmental Engineering"
+       },
+       "52CEENBMSG" : {
+          "dept": "ENV",
+          "abbreviation": "CEEN",
+          "degree": "BMS",
+          "major": "Civil and Environmental Engineering",
+          "full_name": "Blended Masters of Science in Civil and Environmental Engineering"
+       },
+       "52CEBSU" : {
+          "dept": "ENV",
+          "abbreviation": "CE",
+          "degree": "BS",
+          "major": "Civil Engineering",
+          "full_name": "Bachelors of Science in Civil Engineering"
+       },
+       "52ENVEBSU" : {
+          "dept": "ENV",
+          "abbreviation": "ENVE",
+          "degree": "BS",
+          "major": "Environmental Engineering",
+          "full_name": "Bachelors of Science in Environmental Engineering"
+       },
+       "52BMEDMSG" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "MS",
+          "major": "Biomedical Engineering",
+          "full_name": "Masters of Science in Biomedical Engineering"
+       },
+       "52BMEDBMSG" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BMS",
+          "major": "Biomedical Engineering",
+          "full_name": "Blended Masters of Science in Biomedical Engineering"
+       },
+       "52BMEDBSU" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "76CHEMBSU" : {
+          "dept": "CHEM",
+          "abbreviation": "CHEM",
+          "degree": "BS",
+          "major": "Chemistry",
+          "full_name": "Bachelors of Science in Chemistry"
+       },
+       "52EEBSU" : {
+          "dept": "EE",
+          "abbreviation": "EE",
+          "degree": "BS",
+          "major": "Electrical Engineering",
+          "full_name": "Bachelors of Science in Electrical Engineering"
+       },
+       "52MATEBSU" : {
+          "dept": "MATE",
+          "abbreviation": "MATE",
+          "degree": "BS",
+          "major": "Materials Engineering",
+          "full_name": "Bachelors of Science in Materials Engineering"
+       },
+       "52MEBSU" : {
+          "dept": "ME",
+          "abbreviation": "ME",
+          "degree": "BS",
+          "major": "Mechanical Engineering",
+          "full_name": "Bachelors of Science in Mechanical Engineering"
+       },
+       "52AEROMSG" : {
+          "dept": "AERO",
+          "abbreviation": "AERO",
+          "degree": "MS",
+          "major": "Aerospace Engineering",
+          "full_name": "Masters of Science in Aerospace Engineering"
+       },
+       "52AEROBMSG" : {
+          "dept": "AERO",
+          "abbreviation": "AERO",
+          "degree": "BMS",
+          "major": "Aerospace Engineering",
+          "full_name": "Blended Masters of Science in Aerospace Engineering"
+       },
+       "52AEROBSU" : {
+          "dept": "AERO",
+          "abbreviation": "AERO",
+          "degree": "BS",
+          "major": "Aerospace Engineering",
+          "full_name": "Bachelors of Science in Aerospace Engineering"
+       },
+       "52CSCMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "MS",
+          "major": "Computer Science",
+          "full_name": "Masters of Science in Computer Science"
+       },
+       "52CSCBMSG" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BMS",
+          "major": "Computer Science",
+          "full_name": "Blended Masters of Science in Computer Science"
+       },
+       "52CSCBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "CSC",
+          "degree": "BS",
+          "major": "Computer Science",
+          "full_name": "Bachelors of Science in Computer Science"
+       },
+       "52SEBSU" : {
+          "dept": "CSSE",
+          "abbreviation": "SE",
+          "degree": "BS",
+          "major": "Software Engineering",
+          "full_name": "Bachelors of Science in Software Engineering"
+       },
+       "52CPEBSU" : {
+          "dept": "CPE",
+          "abbreviation": "CPE",
+          "degree": "BS",
+          "major": "Computer Engineering",
+          "full_name": "Bachelors of Science in Computer Engineering"
+       }
     } }
  ]
 }
