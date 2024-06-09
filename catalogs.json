@@ -1,5 +1,47 @@
 { "catalogs" : [
 	 { "year": "2022-2026", "url": "https://catalog.calpoly.edu/", "start_term": 2228, "end_term": 2266, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -275,6 +317,48 @@
     } },
 
 	 { "year": "2021-2022", "url": "https://catalog.calpoly.edu/previouscatalogs/2021-2022/", "start_term": 2218, "end_term": 2226, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -529,6 +613,48 @@
     } },
 
 	 { "year": "2020-2021", "url": "https://catalog.calpoly.edu/previouscatalogs/2020-2021/", "start_term" : 2208, "end_term": 2216, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -783,6 +909,48 @@
     } },
 
 	 { "year": "2019-2020", "url": "https://catalog.calpoly.edu/previouscatalogs/2019-2020/", "start_term": 2198, "end_term": 2206, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -1037,6 +1205,48 @@
     } },
 
 	 { "year": "2017-2019", "url": "https://catalog.calpoly.edu/previouscatalogs/2017-2019/", "start_term": 2178, "end_term": 2196, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -1291,6 +1501,48 @@
     } },
 
 	 { "year": "2015-2017", "url": "https://catalog.calpoly.edu/previouscatalogs/2015-2017/", "start_term": 2158, "end_term": 2176, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -1545,6 +1797,48 @@
     } },
 
 	 { "year": "2013-2015", "url": "https://catalog.calpoly.edu/previouscatalogs/2013-15/", "start_term": 2138, "end_term": 2156, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -1799,6 +2093,48 @@
     } },
 
 	 { "year": "2011-2013", "url": "https://previouscatalogs.calpoly.edu/courses-a-z", "start_term": 2118, "end_term": 2136, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -2053,6 +2389,48 @@
     } },
 
 	 { "year": "2009-2011", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2009-2011%20Catalog.pdf", "start_term": 2098, "end_term": 2116, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -2307,6 +2685,48 @@
     } },
 
 	 { "year": "2007-2009", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2007-2009%20Catalog.pdf", "start_term": 2078, "end_term": 2096, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -2561,6 +2981,48 @@
     } },
 
 	 { "year": "2005-2007", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2005-2007%20Catalog.pdf", "start_term": 2058, "end_term": 2076, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -2815,6 +3277,48 @@
     } },
 
 	 { "year": "2003-2005", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2003-2005%20Catalog.pdf", "start_term" : 2038, "end_term": 2056,  "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -3069,6 +3573,48 @@
     } },
 
 	 { "year": "2001-2003", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2001-2003%20Catalog.pdf", "start_term": 2018, "end_term": 2036, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -3323,6 +3869,48 @@
     } },
 
 	 { "year": "2000-2001", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/2000-2001%20Catalog.pdf", "start_term": 2008, "end_term": 2016, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -3577,6 +4165,48 @@
     } },
 
 	 { "year": "1999-2000", "url": "https://content-calpoly-edu.s3.amazonaws.com/previouscatalogs/1/documents/previous-catalogs/1999-2000%20Catalog.pdf", "start_term": 998, "end_term": 2006, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
@@ -3831,6 +4461,48 @@
     } },
 
 	 { "year": "1986-1988", "url": "", "start_term": 868, "end_term": 888, "programs" : {
+       "76BIOBSU" : {
+          "dept": "BIO",
+          "abbreviation": "BIO",
+          "degree": "BS",
+          "major": "Liberal Arts and Biological Sciences",
+          "full_name": "Bachelors of Science in Biological Sciences"
+       },
+       "52LAESBAU" : {
+          "dept": "ENGR",
+          "abbreviation": "LAES",
+          "degree": "BA",
+          "major": "Liberal Arts and Engineering Studies",
+          "full_name": "Bachelors of Arts in Liberal Arts and Engineering Studies"
+       },
+       "52BMEDX2U" : {
+          "dept": "BMED",
+          "abbreviation": "BMED",
+          "degree": "BS",
+          "major": "Biomedical Engineering",
+          "full_name": "Bachelors of Science in Biomedical Engineering"
+       },
+       "48ENGLBAU" : {
+          "dept": "ENGL",
+          "abbreviation": "ENGL",
+          "degree": "BA",
+          "major": "English",
+          "full_name": "Bachelors of Arts in English"
+       },
+       "10ASCIBSU" : {
+          "dept": "ASCI",
+          "abbreviation": "AS",
+          "degree": "BS",
+          "major": "Animal Science",
+          "full_name": "Bachelors of Science in Animal Science"
+       },
+       "10AGRIMSG" : {
+          "dept": "FSN",
+          "abbreviation": "AG",
+          "degree": "MS",
+          "major": "Agriculture",
+          "full_name": "Masters of Science in Agriculture"
+       },
        "40BUSMBAG" : {
           "dept": "BUS",
           "abbreviation": "MBA",
