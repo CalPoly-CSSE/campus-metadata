@@ -64,7 +64,9 @@
       { "abbreviation": "EDUC", "name": "School of Education" }
    ] },
 
-   { "abbreviation": "OCOB", "name": "Orfalea College of Business" },
+   { "abbreviation": "OCOB", "name": "Orfalea College of Business", "departments" : [
+      { "abbreviation": "BUS", "name": "College of Business" }
+   ] },
 
    { "abbreviation": "EE", "name": "Extended Education", "departments": [
       { "abbreviation": "GS", "name": "Graduate Studies" }
