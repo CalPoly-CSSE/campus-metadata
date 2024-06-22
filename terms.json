@@ -1,4 +1,6 @@
 { "terms" :[
+   { "code": "0868", "name": "Fall Quarter 1986", "first_day" : "08/31/1986", "last_day": "12/15/1986" },
+   { "code": "0888", "name": "Fall Quarter 1988", "first_day" : "08/31/1988", "last_day": "12/15/1988" },
    { "code": "0992", "name": "Winter Quarter 1999", "first_day" : "12/14/1998", "last_day": "03/15/1999" },
    { "code": "0994", "name": "Spring Quarter 1999", "first_day" : "03/16/1999", "last_day" : "06/14/1999" },
    { "code": "0996", "name": "Summer Quarter 1999", "first_day" : "06/15/1999", "last_day" : "08/30/1999" },
